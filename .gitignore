@@ -1,0 +1,8 @@
+.env
+venv/
+CICDPIPELINE/
+src/model.pkl
+
+__pycache__/
+*.pyc
+.vscode/
